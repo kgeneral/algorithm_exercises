@@ -1,9 +1,10 @@
+package com.dykim.algorithm;
+
 import com.google.common.collect.ImmutableList;
 import org.junit.Test;
 
 import java.util.List;
 
-import static org.assertj.core.api.Assertions.*;
 import static org.assertj.core.api.Assertions.assertThat;
 
 public class ListSumTest {
